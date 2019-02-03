@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{C40F98EB-857E-7CEB-A020-9B3E44628DF9}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonControlller.cs" Line="10" Column="40" />
+      <File FileName="Assets/Scripts/Dog.cs" Line="215" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="64" Column="6" />
+      <File FileName="Assets/Scripts/FeedClick.cs" Line="13" Column="23" />
+      <File FileName="Assets/Scripts/Touch.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/Heart.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/RoomButton.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/ButtonManager.cs" Line="22" Column="17" />
+      <File FileName="Assets/Scripts/NextButtonManager.cs" Line="22" Column="14" />
+      <File FileName="Assets/Scripts/Bath.cs" Line="14" Column="33" />
+      <File FileName="Assets/Scripts/WalkBack.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
