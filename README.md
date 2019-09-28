@@ -1,4 +1,4 @@
-# My-Dog
+# MyDog
 First game made with Isabel at McHacks6.
 
 Devpost link: https://devpost.com/software/my-dog
